@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistema de Dieta</string>
+    <string name="title_app">🥗 Sistema de Dieta</string>
+    <string name="diet_title">🥗 Elegir Plan de Dieta</string>
+    <string name="diet_standard">📊 Estándar</string>
+    <string name="diet_keto">🥩 Keto</string>
+    <string name="diet_high_protein">💪 Alta Proteína</string>
+    <string name="diet_low_carb">🥗 Bajo en Carbohidratos</string>
+    <string name="diet_vegetarian">🌱 Vegetariano</string>
+    <string name="diet_intermittent">⏰ Ayuno Intermitente</string>
+
+    <string name="scroll_bmi">📊 IMC</string>
+    <string name="scroll_patient">📝 Datos</string>
+    <string name="scroll_diet">🥗 Dieta</string>
+    <string name="scroll_results">📋 Resultados</string>
+    <string name="scroll_analysis">📊 Análisis</string>
+
+    <string name="bmi_title">📊 Calculadora IMC Avanzada</string>
+    <string name="bmi_not_calculated">No calculado</string>
+    <string name="bmi_height">Altura (cm)</string>
+    <string name="bmi_weight">Peso (kg)</string>
+    <string name="bmi_calculate">🧮 Calcular IMC</string>
+    <string name="bmi_result">IMC: 0.0</string>
+    <string name="bmi_category">Categoría: No especificada</string>
+    <string name="bmi_ideal_weight">⚖️ Peso Ideal:</string>
+
+    <string name="bmi_underweight">Bajo peso</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Sobrepeso</string>
+    <string name="bmi_obese1">Obesidad Clase I</string>
+    <string name="bmi_obese2">Obesidad Clase II</string>
+    <string name="bmi_obese3">Obesidad Clase III</string>
+
+    <string name="bmi_underweight_desc">Tienes bajo peso</string>
+    <string name="bmi_normal_desc">¡Tu peso es ideal!</string>
+    <string name="bmi_overweight_desc">Tienes sobrepeso leve</string>
+    <string name="bmi_obese1_desc">Tienes obesidad clase I</string>
+    <string name="bmi_obese2_desc">Tienes obesidad clase II</string>
+    <string name="bmi_obese3_desc">Tienes obesidad severa</string>
+
+    <string name="patient_title">📝 Datos del Paciente</string>
+    <string name="patient_name">Nombre</string>
+    <string name="patient_age">Edad (años)</string>
+    <string name="patient_weight">Peso (kg)</string>
+    <string name="patient_height">Altura (cm)</string>
+    <string name="patient_gender">Género</string>
+    <string name="patient_male">👨 Hombre</string>
+    <string name="patient_female">👩 Mujer</string>
+
+    <string name="btn_calculate">📋 Calcular Plan</string>
+    <string name="btn_clear">🗑️ Limpiar</string>
+    <string name="btn_change_language">🌐 Cambiar idioma</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <string name="results_title">🥗 Resultados</string>
+    <string name="results_bmi">📊 Índice de Masa Corporal</string>
+    <string name="results_calories">🔥 Calorías</string>
+    <string name="results_macros">⚖️ Distribución de Macros</string>
+    <string name="results_exchange">🍽️ Tabla de Intercambio</string>
+    <string name="results_meal_plan">🗓️ Plan de Comidas</string>
+    <string name="results_match">✅ Porcentaje de Coincidencia:</string>
+
+    <string name="analysis_title">📊 Análisis de Peso</string>
+    <string name="analysis_ideal">Peso Ideal:</string>
+    <string name="analysis_difference">Diferencia:</string>
+    <string name="analysis_advice">💡 Consejo del Día</string>
+
+    <string name="tip_underweight">Aumente la ingesta calórica con proteínas y carbohidratos saludables</string>
+    <string name="tip_normal">Mantenga su dieta y continúe haciendo ejercicio</string>
+    <string name="tip_overweight">Siga el plan y camine 30 minutos diarios</string>
+    <string name="tip_obese1">Cumpla el plan y haga ejercicio regularmente</string>
+    <string name="tip_obese2">Consulte a un nutricionista y siga el plan estrictamente</string>
+    <string name="tip_obese3">Requiere seguimiento médico, consulte a su médico</string>
+
+    <string name="error_enter_height_weight">Por favor ingrese altura y peso</string>
+    <string name="error_valid_values">Ingrese valores válidos (mayores a 0)</string>
+    <string name="error_enter_numbers">Ingrese números válidos</string>
+    <string name="error_enter_name">Por favor ingrese el nombre</string>
+    <string name="error_enter_age">Por favor ingrese la edad</string>
+    <string name="error_age_range">La edad debe ser entre 1 y 150 años</string>
+    <string name="error_enter_weight">Por favor ingrese el peso</string>
+    <string name="error_weight_range">El peso debe ser entre 10 y 500 kg</string>
+    <string name="error_enter_height">Por favor ingrese la altura</string>
+    <string name="error_height_range">La altura debe ser entre 50 y 300 cm</string>
+    <string name="error_select_gender">Por favor seleccione género</string>
+    <string name="error_not_calculated">Plan no calculado</string>
+
+    <string name="footer">💪 Todos los derechos reservados</string>
+    <string name="title_language">🌐 Elegir idioma</string>
+
+    <!-- Calories -->
+    <string name="calories_gross">Calorías Brutas</string>
+    <string name="calories_deficit">Déficit</string>
+    <string name="calories_deficit_desc">para pérdida de peso</string>
+    <string name="calories_net">Calorías Netas</string>
+    <string name="calories_unit">kcal</string>
+
+    <!-- Macros -->
+    <string name="macro_carbs">Carbohidratos</string>
+    <string name="macro_protein">Proteínas</string>
+    <string name="macro_fat">Grasas</string>
+
+    <!-- Exchange Table -->
+    <string name="exchange_starch">Almidones</string>
+    <string name="exchange_vegetables">Verduras</string>
+    <string name="exchange_fruit">Frutas</string>
+    <string name="exchange_meat">Carnes</string>
+    <string name="exchange_milk">Lácteos</string>
+    <string name="exchange_legumes">Legumbres</string>
+    <string name="exchange_fat">Grasas</string>
+    <string name="exchange_units">unidades</string>
+    <string name="exchange_total_carbs">Total Carbohidratos</string>
+    <string name="exchange_total_protein">Total Proteínas</string>
+    <string name="exchange_total_fat">Total Grasas</string>
+
+    <!-- Meat Types -->
+    <string name="meat_lean">Magro</string>
+    <string name="meat_medium_fat">Semigraso</string>
+    <string name="meat_high_fat">Graso</string>
+
+    <!-- Milk Types -->
+    <string name="milk_skim">Desnatada</string>
+    <string name="milk_low_fat">Semidesnatada</string>
+    <string name="milk_whole">Entera</string>
+</resources>

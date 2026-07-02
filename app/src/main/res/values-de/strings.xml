@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ernährungssystem</string>
+    <string name="title_app">🥗 Ernährungssystem</string>
+    <string name="diet_title">🥗 Diätplan Wählen</string>
+    <string name="diet_standard">📊 Standard</string>
+    <string name="diet_keto">🥩 Keto</string>
+    <string name="diet_high_protein">💪 Hochprotein</string>
+    <string name="diet_low_carb">🥗 Wenig Kohlenhydrate</string>
+    <string name="diet_vegetarian">🌱 Vegetarisch</string>
+    <string name="diet_intermittent">⏰ Intervallfasten</string>
+
+    <string name="scroll_bmi">📊 BMI</string>
+    <string name="scroll_patient">📝 Daten</string>
+    <string name="scroll_diet">🥗 Diät</string>
+    <string name="scroll_results">📋 Ergebnisse</string>
+    <string name="scroll_analysis">📊 Analyse</string>
+
+    <string name="bmi_title">📊 Erweiterter BMI-Rechner</string>
+    <string name="bmi_not_calculated">Nicht berechnet</string>
+    <string name="bmi_height">Größe (cm)</string>
+    <string name="bmi_weight">Gewicht (kg)</string>
+    <string name="bmi_calculate">🧮 BMI Berechnen</string>
+    <string name="bmi_result">BMI: 0.0</string>
+    <string name="bmi_category">Kategorie: Nicht angegeben</string>
+    <string name="bmi_ideal_weight">⚖️ Idealgewicht:</string>
+
+    <string name="bmi_underweight">Untergewicht</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Übergewicht</string>
+    <string name="bmi_obese1">Adipositas Grad I</string>
+    <string name="bmi_obese2">Adipositas Grad II</string>
+    <string name="bmi_obese3">Adipositas Grad III</string>
+
+    <string name="bmi_underweight_desc">Sie haben Untergewicht</string>
+    <string name="bmi_normal_desc">Ihr Gewicht ist ideal!</string>
+    <string name="bmi_overweight_desc">Sie haben leichtes Übergewicht</string>
+    <string name="bmi_obese1_desc">Sie haben Adipositas Grad I</string>
+    <string name="bmi_obese2_desc">Sie haben Adipositas Grad II</string>
+    <string name="bmi_obese3_desc">Sie haben schwere Adipositas</string>
+
+    <string name="patient_title">📝 Patientendaten</string>
+    <string name="patient_name">Name</string>
+    <string name="patient_age">Alter (Jahre)</string>
+    <string name="patient_weight">Gewicht (kg)</string>
+    <string name="patient_height">Größe (cm)</string>
+    <string name="patient_gender">Geschlecht</string>
+    <string name="patient_male">👨 Männlich</string>
+    <string name="patient_female">👩 Weiblich</string>
+
+    <string name="btn_calculate">📋 Plan Berechnen</string>
+    <string name="btn_clear">🗑️ Löschen</string>
+    <string name="btn_change_language">🌐 Sprache ändern</string>
+    <string name="btn_cancel">Abbrechen</string>
+
+    <string name="results_title">🥗 Ergebnisse</string>
+    <string name="results_bmi">📊 Body-Mass-Index</string>
+    <string name="results_calories">🔥 Kalorien</string>
+    <string name="results_macros">⚖️ Makroverteilung</string>
+    <string name="results_exchange">🍽️ Lebensmittelaustauschtabelle</string>
+    <string name="results_meal_plan">🗓️ Speiseplan</string>
+    <string name="results_match">✅ Übereinstimmungsprozentsatz:</string>
+
+    <string name="analysis_title">📊 Gewichtsanalyse</string>
+    <string name="analysis_ideal">Idealgewicht:</string>
+    <string name="analysis_difference">Unterschied:</string>
+    <string name="analysis_advice">💡 Tipp des Tages</string>
+
+    <string name="tip_underweight">Erhöhen Sie die Kalorienzufuhr mit Proteinen und gesunden Kohlenhydraten</string>
+    <string name="tip_normal">Behalten Sie Ihre Ernährung bei und machen Sie weiter Sport</string>
+    <string name="tip_overweight">Befolgen Sie den Plan und gehen Sie täglich 30 Minuten spazieren</string>
+    <string name="tip_obese1">Halten Sie sich an den Plan und treiben Sie regelmäßig Sport</string>
+    <string name="tip_obese2">Konsultieren Sie einen Ernährungsberater und befolgen Sie den Plan streng</string>
+    <string name="tip_obese3">Erfordert ärztliche Nachsorge, konsultieren Sie Ihren Arzt</string>
+
+    <string name="error_enter_height_weight">Bitte geben Sie Größe und Gewicht ein</string>
+    <string name="error_valid_values">Bitte gültige Werte eingeben (größer als 0)</string>
+    <string name="error_enter_numbers">Bitte gültige Zahlen eingeben</string>
+    <string name="error_enter_name">Bitte geben Sie den Namen ein</string>
+    <string name="error_enter_age">Bitte geben Sie das Alter ein</string>
+    <string name="error_age_range">Das Alter muss zwischen 1 und 150 Jahren liegen</string>
+    <string name="error_enter_weight">Bitte geben Sie das Gewicht ein</string>
+    <string name="error_weight_range">Das Gewicht muss zwischen 10 und 500 kg liegen</string>
+    <string name="error_enter_height">Bitte geben Sie die Größe ein</string>
+    <string name="error_height_range">Die Größe muss zwischen 50 und 300 cm liegen</string>
+    <string name="error_select_gender">Bitte wählen Sie das Geschlecht</string>
+    <string name="error_not_calculated">Plan noch nicht berechnet</string>
+
+    <string name="footer">💪 Alle Rechte vorbehalten</string>
+    <string name="title_language">🌐 Sprache wählen</string>
+
+    <!-- Calories -->
+    <string name="calories_gross">Bruttokalorien</string>
+    <string name="calories_deficit">Defizit</string>
+    <string name="calories_deficit_desc">für Gewichtsverlust</string>
+    <string name="calories_net">Nettokalorien</string>
+    <string name="calories_unit">kcal</string>
+
+    <!-- Macros -->
+    <string name="macro_carbs">Kohlenhydrate</string>
+    <string name="macro_protein">Protein</string>
+    <string name="macro_fat">Fett</string>
+
+    <!-- Exchange Table -->
+    <string name="exchange_starch">Stärke</string>
+    <string name="exchange_vegetables">Gemüse</string>
+    <string name="exchange_fruit">Obst</string>
+    <string name="exchange_meat">Fleisch</string>
+    <string name="exchange_milk">Milch</string>
+    <string name="exchange_legumes">Hülsenfrüchte</string>
+    <string name="exchange_fat">Fett</string>
+    <string name="exchange_units">Einheiten</string>
+    <string name="exchange_total_carbs">Gesamt Kohlenhydrate</string>
+    <string name="exchange_total_protein">Gesamt Protein</string>
+    <string name="exchange_total_fat">Gesamt Fett</string>
+
+    <!-- Meat Types -->
+    <string name="meat_lean">Mager</string>
+    <string name="meat_medium_fat">Mittelfett</string>
+    <string name="meat_high_fat">Fett</string>
+
+    <!-- Milk Types -->
+    <string name="milk_skim">Magermilch</string>
+    <string name="milk_low_fat">Fettarm</string>
+    <string name="milk_whole">Vollmilch</string>
+</resources>

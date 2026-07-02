@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diet_title">🥗 Choose Diet Plan</string>
+    <string name="app_name">Diet System</string>
+    <string name="title_app">🥗 Diet System</string>
+
+    <string name="diet_standard">📊 Standard</string>
+    <string name="diet_keto">🥩 Keto</string>
+    <string name="diet_high_protein">💪 High Protein</string>
+    <string name="diet_low_carb">🥗 Low Carb</string>
+    <string name="diet_vegetarian">🌱 Vegetarian</string>
+    <string name="diet_intermittent">⏰ Intermittent Fasting</string>
+
+    <string name="scroll_bmi">📊 BMI</string>
+    <string name="scroll_patient">📝 Data</string>
+    <string name="scroll_diet">🥗 Diet</string>
+    <string name="scroll_results">📋 Results</string>
+    <string name="scroll_analysis">📊 Analysis</string>
+
+    <string name="bmi_title">📊 Advanced BMI Calculator</string>
+    <string name="bmi_not_calculated">Not Calculated</string>
+    <string name="bmi_height">Height (cm)</string>
+    <string name="bmi_weight">Weight (kg)</string>
+    <string name="bmi_calculate">🧮 Calculate BMI</string>
+    <string name="bmi_result">BMI: 0.0</string>
+    <string name="bmi_category">Category: Not specified</string>
+    <string name="bmi_ideal_weight">⚖️ Ideal Weight:</string>
+
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_obese1">Obese Class I</string>
+    <string name="bmi_obese2">Obese Class II</string>
+    <string name="bmi_obese3">Obese Class III</string>
+
+    <string name="bmi_underweight_desc">You are underweight</string>
+    <string name="bmi_normal_desc">Your weight is ideal!</string>
+    <string name="bmi_overweight_desc">You have slight overweight</string>
+    <string name="bmi_obese1_desc">You have Class I obesity</string>
+    <string name="bmi_obese2_desc">You have Class II obesity</string>
+    <string name="bmi_obese3_desc">You have severe obesity</string>
+
+    <string name="patient_title">📝 Patient Data</string>
+    <string name="patient_name">Name</string>
+    <string name="patient_age">Age (years)</string>
+    <string name="patient_weight">Weight (kg)</string>
+    <string name="patient_height">Height (cm)</string>
+    <string name="patient_gender">Gender</string>
+    <string name="patient_male">👨 Male</string>
+    <string name="patient_female">👩 Female</string>
+
+    <string name="btn_calculate">📋 Calculate Plan</string>
+    <string name="btn_clear">🗑️ Clear</string>
+    <string name="btn_change_language">🌐 Change Language</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="results_title">🥗 Results</string>
+    <string name="results_bmi">📊 Body Mass Index</string>
+    <string name="results_calories">🔥 Calories</string>
+    <string name="results_macros">⚖️ Macro Distribution</string>
+    <string name="results_exchange">🍽️ Food Exchange Table</string>
+    <string name="results_meal_plan">🗓️ Meal Plan</string>
+    <string name="results_match">✅ Match Percentage:</string>
+
+    <string name="analysis_title">📊 Weight Analysis</string>
+    <string name="analysis_ideal">Ideal Weight:</string>
+    <string name="analysis_difference">Difference:</string>
+    <string name="analysis_advice">💡 Today\'s Tip</string>
+
+    <string name="tip_underweight">Increase caloric intake with focus on proteins and healthy carbs</string>
+    <string name="tip_normal">Maintain your diet and continue exercising</string>
+    <string name="tip_overweight">Follow the diet plan and walk 30 minutes daily</string>
+    <string name="tip_obese1">Commit to the diet plan and exercise regularly</string>
+    <string name="tip_obese2">Consult a nutritionist and follow the plan strictly</string>
+    <string name="tip_obese3">Requires medical follow-up, consult your doctor</string>
+
+    <string name="error_enter_height_weight">Please enter height and weight</string>
+    <string name="error_valid_values">Please enter valid values (greater than 0)</string>
+    <string name="error_enter_numbers">Please enter valid numbers</string>
+    <string name="error_enter_name">Please enter name</string>
+    <string name="error_enter_age">Please enter age</string>
+    <string name="error_age_range">Age must be between 1 and 150 years</string>
+    <string name="error_enter_weight">Please enter weight</string>
+    <string name="error_weight_range">Weight must be between 10 and 500 kg</string>
+    <string name="error_enter_height">Please enter height</string>
+    <string name="error_height_range">Height must be between 50 and 300 cm</string>
+    <string name="error_select_gender">Please select gender</string>
+    <string name="error_not_calculated">Plan not calculated yet</string>
+
+    <string name="footer">💪 All Rights Reserved</string>
+    <string name="title_language">🌐 Choose Language</string>
+
+    <!-- Calories -->
+    <string name="calories_gross">Gross Calories</string>
+    <string name="calories_deficit">Deficit</string>
+    <string name="calories_deficit_desc">for weight loss</string>
+    <string name="calories_net">Net Calories</string>
+    <string name="calories_unit">kcal</string>
+
+    <!-- Macros -->
+    <string name="macro_carbs">Carbohydrates</string>
+    <string name="macro_protein">Protein</string>
+    <string name="macro_fat">Fat</string>
+
+    <!-- Exchange Table -->
+    <string name="exchange_starch">Starch</string>
+    <string name="exchange_vegetables">Vegetables</string>
+    <string name="exchange_fruit">Fruit</string>
+    <string name="exchange_meat">Meat</string>
+    <string name="exchange_milk">Milk</string>
+    <string name="exchange_legumes">Legumes</string>
+    <string name="exchange_fat">Fat</string>
+    <string name="exchange_units">units</string>
+    <string name="exchange_total_carbs">Total Carbs</string>
+    <string name="exchange_total_protein">Total Protein</string>
+    <string name="exchange_total_fat">Total Fat</string>
+
+    <!-- Meat Types -->
+    <string name="meat_lean">Lean</string>
+    <string name="meat_medium_fat">Medium Fat</string>
+    <string name="meat_high_fat">High Fat</string>
+
+    <!-- Milk Types -->
+    <string name="milk_skim">Skim</string>
+    <string name="milk_low_fat">Low Fat</string>
+    <string name="milk_whole">Whole</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- الخلفية الأساسية -->
+    <item>
+        <shape>
+            <solid android:color="#F5F5F5" />
+        </shape>
+    </item>
+
+    <!-- العلامة المائية (نص أو شكل) -->
+    <item>
+        <bitmap
+            android:src="@drawable/ic_launcher_foreground"
+            android:gravity="center"
+            android:alpha="0.06" />
+    </item>
+
+</layer-list>

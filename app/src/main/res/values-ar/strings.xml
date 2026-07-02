@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نظام الحمية الغذائية</string>
+    <string name="title_app">🥗 نظام الحمية الغذائية</string>
+
+    <!-- الأنظمة الغذائية -->
+    <string name="diet_title">🥗 اختيار النظام الغذائي</string>
+    <string name="diet_standard">📊 قياسي</string>
+    <string name="diet_keto">🥩 كيتو</string>
+    <string name="diet_high_protein">💪 عالي البروتين</string>
+    <string name="diet_low_carb">🥗 قليل الكارب</string>
+    <string name="diet_vegetarian">🌱 نباتي</string>
+    <string name="diet_intermittent">⏰ صيام متقطع</string>
+
+    <!-- أزرار التمرير -->
+    <string name="scroll_bmi">📊 BMI</string>
+    <string name="scroll_patient">📝 بيانات</string>
+    <string name="scroll_diet">🥗 نظام</string>
+    <string name="scroll_results">📋 نتائج</string>
+    <string name="scroll_analysis">📊 تحليل</string>
+
+    <!-- BMI -->
+    <string name="bmi_title">📊 حاسبة BMI المتطورة</string>
+    <string name="bmi_not_calculated">غير محسوب</string>
+    <string name="bmi_height">الطول (سم)</string>
+    <string name="bmi_weight">الوزن (كجم)</string>
+    <string name="bmi_calculate">🧮 حساب BMI</string>
+    <string name="bmi_result">BMI: 0.0</string>
+    <string name="bmi_category">التصنيف: غير محدد</string>
+    <string name="bmi_ideal_weight">⚖️ الوزن المثالي:</string>
+
+    <!-- تصنيفات BMI -->
+    <string name="bmi_underweight">نقص الوزن</string>
+    <string name="bmi_normal">وزن طبيعي</string>
+    <string name="bmi_overweight">زيادة وزن</string>
+    <string name="bmi_obese1">سمنة درجة أولى</string>
+    <string name="bmi_obese2">سمنة درجة ثانية</string>
+    <string name="bmi_obese3">سمنة درجة ثالثة</string>
+
+    <string name="bmi_underweight_desc">أنت تعاني من نقص في الوزن</string>
+    <string name="bmi_normal_desc">وزنك مثالي!</string>
+    <string name="bmi_overweight_desc">لديك زيادة بسيطة في الوزن</string>
+    <string name="bmi_obese1_desc">لديك سمنة درجة أولى</string>
+    <string name="bmi_obese2_desc">لديك سمنة درجة ثانية</string>
+    <string name="bmi_obese3_desc">لديك سمنة مفرطة</string>
+
+    <!-- بيانات المريض -->
+    <string name="patient_title">📝 بيانات المريض</string>
+    <string name="patient_name">الاسم</string>
+    <string name="patient_age">العمر (سنة)</string>
+    <string name="patient_weight">الوزن (كجم)</string>
+    <string name="patient_height">الطول (سم)</string>
+    <string name="patient_gender">الجنس</string>
+    <string name="patient_male">👨 ذكر</string>
+    <string name="patient_female">👩 أنثى</string>
+
+    <!-- أزرار -->
+    <string name="btn_calculate">📋 حساب الخطة</string>
+    <string name="btn_clear">🗑️ مسح</string>
+    <string name="btn_change_language">🌐 تغيير اللغة</string>
+    <string name="btn_cancel">إلغاء</string>
+
+    <!-- النتائج -->
+    <string name="results_title">🥗 النتائج</string>
+    <string name="results_bmi">📊 مؤشر كتلة الجسم</string>
+    <string name="results_calories">🔥 السعرات الحرارية</string>
+    <string name="results_macros">⚖️ توزيع الماكروز</string>
+    <string name="results_exchange">🍽️ جدول وحدات التبادل</string>
+    <string name="results_meal_plan">🗓️ خطة الوجبات</string>
+    <string name="results_match">✅ نسبة المطابقة:</string>
+
+    <!-- تحليل الوزن -->
+    <string name="analysis_title">📊 تحليل الوزن</string>
+    <string name="analysis_ideal">الوزن المثالي:</string>
+    <string name="analysis_difference">الفرق:</string>
+    <string name="analysis_advice">💡 نصيحة اليوم</string>
+
+    <!-- نصائح -->
+    <string name="tip_underweight">ننصح بزيادة السعرات الحرارية مع التركيز على البروتينات والكربوهيدرات الصحية</string>
+    <string name="tip_normal">حافظ على نظامك الغذائي واستمر على التمارين الرياضية</string>
+    <string name="tip_overweight">اتبع الخطة الغذائية ومارس المشي 30 دقيقة يومياً</string>
+    <string name="tip_obese1">ننصح بالالتزام بالخطة الغذائية وممارسة الرياضة بانتظام</string>
+    <string name="tip_obese2">نوصي بمتابعة أخصائي تغذية والالتزام بالخطة</string>
+    <string name="tip_obese3">حالتك تتطلب متابعة طبية دقيقة، استشر طبيبك</string>
+
+    <!-- أخطاء -->
+    <string name="error_enter_height_weight">الرجاء إدخال الطول والوزن</string>
+    <string name="error_valid_values">الرجاء إدخال قيم صحيحة (أكبر من 0)</string>
+    <string name="error_enter_numbers">الرجاء إدخال أرقام صحيحة</string>
+    <string name="error_enter_name">الرجاء إدخال الاسم</string>
+    <string name="error_enter_age">الرجاء إدخال العمر</string>
+    <string name="error_age_range">العمر يجب أن يكون بين 1 و 150 سنة</string>
+    <string name="error_enter_weight">الرجاء إدخال الوزن</string>
+    <string name="error_weight_range">الوزن يجب أن يكون بين 10 و 500 كجم</string>
+    <string name="error_enter_height">الرجاء إدخال الطول</string>
+    <string name="error_height_range">الطول يجب أن يكون بين 50 و 300 سم</string>
+    <string name="error_select_gender">الرجاء اختيار الجنس</string>
+    <string name="error_not_calculated">لم يتم حساب الخطة بعد</string>
+
+    <!-- Footer -->
+    <string name="footer">💪 جميع الحقوق محفوظة</string>
+    <string name="title_language">🌐 اختر اللغة</string>
+
+    <!-- السعرات -->
+    <string name="calories_gross">السعرات الخام</string>
+    <string name="calories_deficit">خصم</string>
+    <string name="calories_deficit_desc">عجز لإنقاص الوزن</string>
+    <string name="calories_net">السعرات الصافية</string>
+    <string name="calories_unit">كيلوكالوري</string>
+
+    <!-- الماكروز -->
+    <string name="macro_carbs">كربوهيدرات</string>
+    <string name="macro_protein">بروتين</string>
+    <string name="macro_fat">دهون</string>
+
+    <!-- جدول التبادل -->
+    <string name="exchange_starch">نشويات</string>
+    <string name="exchange_vegetables">خضار</string>
+    <string name="exchange_fruit">فاكهة</string>
+    <string name="exchange_meat">لحوم</string>
+    <string name="exchange_milk">ألبان</string>
+    <string name="exchange_legumes">بقوليات</string>
+    <string name="exchange_fat">دهون</string>
+    <string name="exchange_units">وحدات</string>
+    <string name="exchange_total_carbs">إجمالي كارب</string>
+    <string name="exchange_total_protein">إجمالي بروتين</string>
+    <string name="exchange_total_fat">إجمالي دهون</string>
+
+    <!-- أنواع اللحوم -->
+    <string name="meat_lean">خالي الدهن</string>
+    <string name="meat_medium_fat">متوسط الدهون</string>
+    <string name="meat_high_fat">عالي الدهون</string>
+
+    <!-- أنواع الألبان -->
+    <string name="milk_skim">خالي الدسم</string>
+    <string name="milk_low_fat">قليل الدسم</string>
+    <string name="milk_whole">كامل الدسم</string>
+</resources>
